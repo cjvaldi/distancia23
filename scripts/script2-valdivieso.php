@@ -25,7 +25,7 @@
 * @see Calculadora::multiplicar()
 * @see Calculadora::dividir()
 * @author Profesor <prof@inst.org>
-* @version 1.0
+* @version 2.0
 * @license Todos los derechos reservados 2023
 */
  class Calculadora {

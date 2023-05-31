@@ -6,7 +6,7 @@
 * @package funciones
 * @access public
 * @author Profesor <prof@insti.com>
-* @version 1.0
+* @version 2.0
 * @see sumar()
 * @see restar()
 */
